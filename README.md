@@ -13,17 +13,6 @@ To run the application, follow these instructions:
    - `npm start`
 
 
-## React Learning Series
-This project is part of a comprehensive learning series:
-1. [React application for user listing](https://github.com/tanishabisht/Learn-ReactUsersListing)
-2. [Hooks in React](https://github.com/tanishabisht/Learn-ReactHooks) (this repository)
-3. [State Management in React](https://github.com/tanishabisht/Learn-ReactStateManagement)
-4. [Material-UI in React](https://github.com/tanishabisht/Learn-ReactMUI)
-5. [Redux in React](https://github.com/tanishabisht/Learn-ReactRedux)
-6. [Optimizing React Apps](https://github.com/tanishabisht/Learn-ReactOptimization)
-7. [Building a Burger Builder App in React](https://github.com/tanishabisht/Learn-ReactBurgerBuilder)
-
-
 ## Fundamental Rules of Hooks
 - **Top Level Only:** Always use hooks at the top level of your React functions. Do not call hooks inside loops, conditions, or nested functions.
 - **React Functions Only:** Hooks should only be used within React functional components, not in regular JavaScript functions.
@@ -54,3 +43,14 @@ This project is part of a comprehensive learning series:
 - **Implementation:**
   - Initialize context values: [Component 1 Example](./src/Components/useContext/Component1.js)
   - Use context values: [Component 3 Example](./src/Components/useContext/Component3.js)
+
+
+## React Learning Series
+This project is part of a comprehensive learning series:
+1. [React application for user listing](https://github.com/tanishabisht/Learn-ReactUsersListing)
+2. [Hooks in React](https://github.com/tanishabisht/Learn-ReactHooks) (this repository)
+3. [State Management in React](https://github.com/tanishabisht/Learn-ReactStateManagement)
+4. [Material-UI in React](https://github.com/tanishabisht/Learn-ReactMUI)
+5. [Redux in React](https://github.com/tanishabisht/Learn-ReactRedux)
+6. [Optimizing React Apps](https://github.com/tanishabisht/Learn-ReactOptimization)
+7. [Building a Burger Builder App in React](https://github.com/tanishabisht/Learn-ReactBurgerBuilder)
